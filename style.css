@@ -1,0 +1,124 @@
+/* Reset básico */
+body, h1, h2, p, input, button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo geral do corpo */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5; /* Fundo fosco */
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Conteúdo principal */
+.main-content {
+    background-color: #ffffff; /* Fundo branco para contraste */
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+/* Cabeçalho */
+.header-banner .main-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #222;
+}
+
+/* Seção de entrada */
+.input-section {
+    margin-top: 10px;
+}
+
+.section-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #555;
+}
+
+.input-wrapper {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.input-wrapper label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #666;
+}
+
+.input-name, .input-number {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+/* Checkbox */
+.checkbox-wrapper {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.checkbox-wrapper label {
+    margin-right: 10px;
+    font-size: 14px;
+    color: #555;
+}
+
+/* Botões */
+.button-generate, .button-copy {
+    display: inline-block;
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 15px;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.button-generate:hover, .button-copy:hover {
+    background-color: #0056b3;
+}
+
+.button-copy {
+    margin-left: 10px;
+}
+
+/* Distância entre os botões */
+.button-generate {
+    margin-bottom: 10px;
+}
+
+/* Exibição da senha */
+.password-display {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    background-color: #f1f1f1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    word-break: break-word;
+    display: inline-block;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+}
