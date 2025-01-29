@@ -32,6 +32,7 @@ Este projeto faz parte de um portfólio inicial de projetos com o objetivo de de
 ├── app.js          # Lógica da aplicação.
 └── README.md       # Documentação do projeto.
 
+```
 🚀 Como usar
 Clone o repositório:
 
