@@ -6,6 +6,7 @@ Este é um gerador de senhas simples, mas poderoso, que permite criar senhas seg
 
 ## 🛠️ Funcionalidades
 
+
 - Geração de senhas seguras e aleatórias.
 - Personalização de tipos de caracteres:
   - Letras (maiúsculas e minúsculas).
