@@ -39,11 +39,10 @@ Este projeto faz parte de um portfólio inicial de projetos com o objetivo de de
 🚀 Como usar
 Clone o repositório:
 
-bash
-Copiar
-Editar
+```
 git clone https://github.com/seu-usuario/gerador-de-senhas.git
 cd gerador-de-senhas
+```
 Abra o arquivo index.html no navegador.
 
 Configure sua senha:
