@@ -57,6 +57,3 @@ Para copiar a senha, clique no botão Copiar.
 📝 Licença
 Este projeto está licenciado sob a licença MIT.
 
-📧 Contato
-Autor: Ary Hauffe Neto
-GitHub: https://github.com/Arynelson
